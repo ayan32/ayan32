@@ -79,7 +79,7 @@ Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a jun
 
 <h3>Contact Me</h3>
 <ul>
-  <li>Don't hesistate to contact me by email at either <a href="mailto:andrewyan32@gmail.com">Personal Email</a> or <a href="mailto:ay2432@nyu.edu">NYU Email</a>.</li>
+  <li>Don't hesitate to contact me by email at either <a href="mailto:andrewyan32@gmail.com">Personal Email</a> or <a href="mailto:ay2432@nyu.edu">NYU Email</a>.</li>
   <li><a href="https://www.linkedin.com/in/andrew-y32">LinkedIn</a></li>
   <li><a href="https://sites.google.com/view/andrew-y32">Personal Website</a></li>
 </ul>
