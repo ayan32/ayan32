@@ -48,6 +48,7 @@ Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a jun
   <li>Sports</li>
   <li>Public Transportation</li>
   <li>Food</li>
+  <li>Retail</li>
   <li>E-Commerce</li>
   <li>Education</li>
 </ul>
