@@ -55,8 +55,8 @@ Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a jun
 
 <h3>Projects & Hobbies</h3>
 <ul>
-  <li><a href="https://www.youtube.com/c/AceTransit">YouTube Channel</a> and <a href="https://www.instagram.com/ace_transit">Instagram Page</a></li>
-  <li>Game that Explores the WMATA System</li>
+  <li><a href="https://www.youtube.com/@AceTransportHub">YouTube Channel</a> and <a href="https://www.instagram.com/acetransporthub">Instagram Page</a></li>
+  <li>Game that Explores the WMATA System (Under the works)</li>
   <li><a href="https://github.com/ayan32/Rate-My-Professors-Analysis">Rate My Professors Analysis</a></li>
 </ul>
 
