@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a junior studying Computer and Data Science at New York University. I enjoy working with datasets because we make new data every day and analyzing them helps me understand where we are as a society and in that specific scenario. Data analysis can help us make better decisions. I have various interests and am interested in leveraging my data science skills through my interests.
+Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a junior studying Computer and Data Science at New York University with a minor in Transportation Engineering. I enjoy working with datasets because we make new data every day and analyzing them helps me understand where we are as a society and in that specific scenario. Data analysis can help us make better decisions. I have various interests and am interested in leveraging my data science skills through my interests.
 
 <h3>Language Experience</h3>
 <ul>
@@ -62,21 +62,28 @@ Hi, I'm Andrew and welcome to my GitHub page! I am a native New Yorker and a jun
 
 <h3>Relevant Coursework</h3>
 <ul>
-  <li>Calculus I</li>
-  <li>Calculus II</li>
-  <li>Calculus III</li>
-  <li>Discrete Mathematics</li>
-  <li>Linear Algebra</li>
-  <li>Probability & Statistics</li>
-  <li>Intro to Computer Science</li>
-  <li>Data Structures</li>
-  <li>Computer Systems Organization</li>
-  <li>Basic Algorithms</li>
-  <li>Fundamentals of Machine Learning</li>
-  <li>Data Management & Analysis</li>
-  <li>Data Science for Everyone</li>
-  <li>Principles of Data Science</li>
-  <li>Causal Inference</li>
+  <li>Computer & Data Science Major:</li>
+  <ul type=1>
+    <li>Calculus I</li>
+    <li>Calculus II</li>
+    <li>Calculus III</li>
+    <li>Discrete Mathematics</li>
+    <li>Linear Algebra</li>
+    <li>Probability & Statistics</li>
+    <li>Intro to Computer Science</li>
+    <li>Data Structures</li>
+    <li>Computer Systems Organization</li>
+    <li>Basic Algorithms</li>
+    <li>Fundamentals of Machine Learning</li>
+    <li>Data Management & Analysis</li>
+    <li>Data Science for Everyone</li>
+    <li>Principles of Data Science</li>
+    <li>Causal Inference</li>
+  </ul>
+  <li>Transportation Minor:</li>
+  <ul type=1>
+    <li>Traffic Engineering</li>
+  </ul>
 </ul>
 
 <h3>Contact Me</h3>
